@@ -3,7 +3,7 @@ Example auction code demonstrating the use of a quasi-fluent internal DSL in con
 
 # Abbreviated Setup Procedures
 
-IMPORTANT: Only a few people in the class need to setup the example auction code on their laptops. If setting up the auction code on your laptop is out of your comfort zone, please don't worry about it.
+***Only a few people in the class need to setup the example auction code on their laptops.*** If setting up the auction code on your laptop is out of your comfort zone, please don't worry about it.
 
 ### Install JDK
 
